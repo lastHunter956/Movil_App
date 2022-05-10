@@ -1,0 +1,15 @@
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\netstandard2.0\CalculadoraIMC.deps.json
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\netstandard2.0\CalculadoraIMC.dll
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\netstandard2.0\CalculadoraIMC.pdb
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.csproj.AssemblyReference.cache
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.AssemblyInfoInputs.cache
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.AssemblyInfo.cs
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\XamlC.stamp
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.dll
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\refint\CalculadoraIMC.dll
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.pdb
+D:\escritorio\programacion 3.0\c#\Proyecto 1\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\ref\CalculadoraIMC.dll
